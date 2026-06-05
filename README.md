@@ -1,6 +1,6 @@
-# Olá, eu sou o Cristiano Marques Silva! 👋
+# Olá, eu sou o Cristiano Marques Silva! 
 
-Seja bem-vindo ao meu perfil do GitHub. Sou estudante de **Ciência da Computação na UNESP** e entusiasta das áreas de Segurança da Informação e Inteligência Artificial.
+Sou estudante de **Ciência da Computação na UNESP** e entusiasta das áreas de Segurança da Informação e Inteligência Artificial.
 
 ---
 
