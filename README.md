@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação na UNESP** e entusiasta das áreas d
 Quando não estou programando ou lendo artigos acadêmicos, você provavelmente vai me encontrar:
 - Praticando corrida
 - Ativo no Movimento Escoteiro ⚜️
-- Estudando instrumentos de metal (trompete/trombone) ou jogando uma partida de xadrez.
+- Estudando instrumentos.
 
 ---
 
