@@ -1,4 +1,4 @@
-# Olá, eu sou o Cristiano Marques Silva! 
+# Hi my name is Cristiano Marques! 
 
 Sou estudante de **Ciência da Computação na UNESP** e entusiasta das áreas de Segurança da Informação e Inteligência Artificial.
 
