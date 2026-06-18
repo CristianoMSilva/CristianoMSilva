@@ -1,4 +1,4 @@
-# Hi my name is Cristiano Marques! 
+[![Chat Animado](./chat.svg)](https://www.linkedin.com/in/cristiano-marques-silva-a62656391/)
 
 Sou estudante de **Ciência da Computação na UNESP** e entusiasta das áreas de Segurança da Informação e Inteligência Artificial.
 
