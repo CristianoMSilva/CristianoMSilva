@@ -18,7 +18,7 @@
   </circle>
   
   <!-- Título do Terminal -->
-  <text x="410" y="30" fill="#8b949e" font-size="13" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">cristiano@github:~</text>
+  <text x="410" y="30" fill="#8b949e" font-size="13" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">CristianoMSilva@github</text>
 
   <!-- Corpo do Terminal / Texto Animado com Fonte Maior (32px) -->
   <g transform="translate(35, 95)">
@@ -30,11 +30,11 @@
       <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1s" fill="freeze"/>
     </text>
     
-    <text x="180" y="0" fill="#ffffff" font-size="32" font-weight="bold" opacity="0">to
+    <text x="180" y="0" fill="#58a6ff" font-size="32" font-weight="bold" opacity="0">to
       <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.4s" fill="freeze"/>
     </text>
     
-    <text x="230" y="0" fill="#79c0ff" font-size="32" font-weight="bold" opacity="0">my
+    <text x="230" y="0" fill="#58a6ff" font-size="32" font-weight="bold" opacity="0">my
       <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.7s" fill="freeze"/>
     </text>
     
