@@ -1,42 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 490" width="100%" height="100%" style="background-color: #0d1117; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
   
   <!-- ================= BALÃO 1 ================= -->
-  <!-- Aparece no segundo 3 -->
+  <!-- Aparece no segundo 2 -->
   <g transform="translate(20, 20)" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2s" fill="freeze" />
     <rect width="210" height="54" rx="20" fill="#2d3139"/>
     <text x="20" y="33" fill="#ffffff" font-size="18" font-weight="500">Hi, I'm Cristiano</text>
   </g>
 
   <!-- ================= BALÃO 2 ================= -->
-  <!-- Aparece no segundo 6 -->
+  <!-- Aparece no segundo 4 -->
   <g transform="translate(20, 90)" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="6s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4s" fill="freeze" />
     <rect width="560" height="75" rx="20" fill="#2d3139"/>
     <text x="20" y="33" fill="#ffffff" font-size="18">Computer Science Student &amp; Researcher</text>
     <text x="20" y="58" fill="#ffffff" font-size="18">Focused on Cybersecurity, Network, Machine Learning &amp; AI</text>
   </g>
 
   <!-- ================= BALÃO 3 ================= -->
-  <!-- Aparece no segundo 9 -->
+  <!-- Aparece no segundo 6 -->
   <g transform="translate(20, 180)" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="9s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="6s" fill="freeze" />
     <rect width="530" height="54" rx="20" fill="#2d3139"/>
     <text x="20" y="33" fill="#ffffff" font-size="18">I love learning and contribution for community</text>
   </g>
 
   <!-- ================= BALÃO 4 ================= -->
-  <!-- Aparece no segundo 12 -->
+  <!-- Aparece no segundo 8 -->
   <g transform="translate(20, 250)" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="12s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="8s" fill="freeze" />
     <rect width="600" height="54" rx="20" fill="#2d3139"/>
     <text x="20" y="33" fill="#ffffff" font-size="18">Please reach out via email : <tspan fill="#58a6ff">criscristimarsilva@gmail.com</tspan></text>
   </g>
 
   <!-- ================= BALÃO 5 ================= -->
-  <!-- Aparece no segundo 15 -->
+  <!-- Aparece no segundo 10 -->
   <g transform="translate(20, 320)" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="15s" fill="freeze" />
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="10s" fill="freeze" />
     <rect width="770" height="54" rx="20" fill="#2d3139"/>
     <text x="20" y="33" fill="#ffffff" font-size="18">Follow me on LinkedIn : <tspan fill="#58a6ff">https://www.linkedin.com/in/cristiano-marques-silva-a62656391/</tspan></text>
   </g>
@@ -49,13 +49,13 @@
   -->
   <g id="typing-bubble" transform="translate(20, 20)">
     <!-- Controle de Visibilidade: Some aos 15 segundos quando a última mensagem chega -->
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="15.1s" fill="freeze" />
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="10.1s" fill="freeze" />
     
     <!-- Controle de Posição: Desce a cada 3 segundos -->
     <animateTransform attributeName="transform" type="translate" 
       values="20,20; 20,20; 20,90; 20,90; 20,180; 20,180; 20,250; 20,250; 20,320; 20,320" 
       keyTimes="0; 0.19; 0.20; 0.39; 0.40; 0.59; 0.60; 0.79; 0.80; 1" 
-      dur="15s" fill="freeze" />
+      dur="10s" fill="freeze" />
 
     <rect width="90" height="54" rx="20" fill="#2d3139"/>
     
