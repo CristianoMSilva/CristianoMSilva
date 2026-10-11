@@ -23,8 +23,6 @@ Hands-on security labs from the Information Security course at UNESP:
 
 ## Skills
 
-## Skills
-
 ![Snort](https://img.shields.io/badge/Snort_3-E4002B?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-EF6C00?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
