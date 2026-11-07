@@ -1,7 +1,7 @@
 # Hi, I'm Cristiano 👋
 
 **Final-year Computer Science student at UNESP (Brazil), focused on Cybersecurity: SOC / Blue Team.**
-Open to junior cybersecurity roles in Portugal.
+Open to junior opportunities in Brazil (São Paulo) or remote.
 
 ## What I'm working on
 
